@@ -1,0 +1,26 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "Header Parser microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesarikaya/Header_Parser_Microservice.git"
+  },
+  "keywords": [
+    "header",
+    "parser"
+  ],
+  "author": "Ergin Sarikaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesarikaya/Header_Parser_Microservice/issues"
+  },
+  "homepage": "https://github.com/mesarikaya/Header_Parser_Microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
